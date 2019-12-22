@@ -1,0 +1,2 @@
+# hello-world
+Big Idea: OSINT Tool for online investigations and Intelligence     How?: PowerShell Module to interact with the Shodan REST API https://developer.shodan.io/ provided with the proper API key.      Base: Create and use a repository Start and manage a new branch Make changes to a file and push them to GitHub as commits Open and merge a pull request     Other: Ideas, resources, shared topics, discussion
